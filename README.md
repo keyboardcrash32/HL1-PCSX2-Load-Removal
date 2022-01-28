@@ -1,3 +1,5 @@
+Smiley deleted this repository, autosplitter is now mine lol
+
 # Install
 
  1. Download https://github.com/rogender/HL1-PCSX2-Load-Removal/blob/main/HL1-PCSX2-Load-Removal.asl
