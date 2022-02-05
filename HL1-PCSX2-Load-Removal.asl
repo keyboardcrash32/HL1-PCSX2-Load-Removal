@@ -1,6 +1,6 @@
 // PCSX2 v1.4.0 HL1 Load-Removal
 // Based on PCSX2 v1.4.0 HL1 Load-Removal by _SmileyAG
-// This repository is focused on fine-working Load-Removal on LiveSplit v1.8.18
+// This repository is focused on fine-working Load-Removal on LiveSplit v1.8.18 and optimized Version Detector (using ModuleSize instead of MD5Hash)
 // WORKING ONLY ON EUROPE REGION
 
 state("pcsx2", "v1.4.0") // Offsets
