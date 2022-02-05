@@ -5,7 +5,7 @@
 
 state("pcsx2", "v1.4.0") // Offsets
 {
-    	int loading: "safemon.dll", 0x000A6618, 0x10C, 0x28C;
+    	int loading: "pcsx2.exe", 0x00620D60, 0xFE4, 0x1D4, 0x198;
 	string10 map: "pcsx2.exe", 0x00964440, 0x308, 0x824, 0xBB4;
 }
 
