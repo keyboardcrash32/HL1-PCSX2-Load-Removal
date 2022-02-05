@@ -1,5 +1,5 @@
 // PCSX2 v1.4.0 HL1 Load-Removal
-// Based on PCSX2 v1.4.0 HL1 Load-Removal by _SmileyAG
+// Based on PCSX2 v1.4.0 HL1 Load-Removal by SmileyAG and ScriptedSnark
 // This repository is focused on fine-working Load-Removal on LiveSplit v1.8.18 and optimized Version Detector (using ModuleSize instead of MD5Hash)
 // WORKING ONLY ON EUROPE REGION
 
