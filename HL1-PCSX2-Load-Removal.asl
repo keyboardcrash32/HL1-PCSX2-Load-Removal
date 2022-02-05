@@ -1,3 +1,8 @@
+// PCSX2 v1.4.0 HL1 Load-Removal
+// Based on PCSX2 v1.4.0 HL1 Load-Removal by _SmileyAG
+// This repository is focused on fine-working Load-Removal on LiveSplit v1.8.18
+// WORKING ONLY ON EUROPE REGION
+
 state("pcsx2", "v1.4.0") // Offsets
 {
     	int loading: "pcsx2.exe", 0x00620D60, 0xFE4, 0x1D4, 0x198;
