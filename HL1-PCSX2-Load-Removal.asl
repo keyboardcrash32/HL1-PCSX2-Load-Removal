@@ -1,6 +1,6 @@
 // PCSX2 v1.4.0 HL1 Load-Removal
 // Based on PCSX2 v1.4.0 HL1 Load-Removal by SmileyAG and ScriptedSnark
-// This repository is focused to fine working Load-Removal on LiveSplit v1.8.18 and optimized Version Detector (using ModuleSize instead of MD5Hash)
+// This repository is focused to fine working Load-Removal on LiveSplit v1.8.18+ and optimized Version Detector (using ModuleSize instead of MD5Hash)
 // 
 // Be sure to disable BunnySplit in Edit Splits, otherwise the PCSX2 autosplitter won't work!
 // SET YOUR "COMPARE AGAINST" TO (GAME TIME) BY RIGHT CLICKING ON YOUR SPLITS OR YOU WON'T SEE LOADS GETTING PAUSED !!
