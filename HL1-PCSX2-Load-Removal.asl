@@ -8,14 +8,14 @@
 
 state("pcsx2", "v1.4.0") // Offsets
 {
-    int loading: "spu2-x.dll", 0x0027E67C, 0xB18, 0x1A4; // Thanks to gstroin for helping with finding pointers on win10
+    	int loading: "spu2-x.dll", 0x0027E67C, 0xB18, 0x1A4; // Thanks to gstroin for helping with finding pointers on win10
 	string10 map: "pcsx2.exe", 0x00964440, 0x308, 0x824, 0xBB4;
 }
 
 init // Version specific
 {
 	var mms = modules.First().ModuleMemorySize;
-    // print("0x" + mms.ToString("X"));
+    	// print("0x" + mms.ToString("X"));
 
 	if(mms == 0x236B000)
 		version = "v1.4.0";
