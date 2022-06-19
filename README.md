@@ -10,7 +10,7 @@
 
 ## Links
 
-[PCSX2 v1.4.0](https://pcsx2.net/download/releases/archive-download/category/43-pcsx2-v1-4-0.html)
+[PCSX2 v1.4.0](https://github.com/PCSX2/pcsx2/releases/v1.4.0)
 
 [HL1 NTSC SLUS-20066 version](https://drive.google.com/file/d/1u0ge96tiW_ywCcbmJwHGsyL2lzTrI-8v/view?usp=sharing)
 
